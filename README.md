@@ -1,7 +1,7 @@
 
 # box2dxt (for box2d v2.3.1)
 
-box2dxt is a extension module to box2d for the monkey 2 language
+box2dxt is an extension module for box2d for the Wonkey language
 
 it features:
 - a partial wrapper to b2dJson (R.U.B.E. importer/exporter) by iforce2d + a monkey2 implementation for the rest of b2dJson functionalities and more
